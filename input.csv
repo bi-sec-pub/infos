@@ -1,3 +1,4 @@
 Name, URL, Comment, Tags, Date
 Malware IOCs, https://github.com/executemalware/Malware-IOCs, IOCs for different Malware, Malware;IOC;Ransomware;CTI,2024-01-02
 CTI-Threat Intel, https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md, CTI for different Topics, CTI; Ransomware, 2024-01-02
+Yara Rules Collection, https://github.com/InQuest/awesome-yara, YARA-Rules for Malware analysis, Malware;Ransomware;YARA, 2024-01-02
