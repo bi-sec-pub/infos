@@ -1,7 +1,7 @@
 Name, URL, Comment, Tags, Date
 Malware IOCs, https://github.com/executemalware/Malware-IOCs, IOCs for different Malware, Malware;IOC;Ransomware;CTI,2024-01-02
-CTI-Threat Intel, https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md, CTI for different Topics, CTI; Ransomware, 2024-01-02
+CTI-Threat Intel, https://github.com/fastfire/deepdarkCTI, CTI for different Topics, CTI; Ransomware, 2024-01-02
 Yara Rules Collection, https://github.com/InQuest/awesome-yara, YARA-Rules for Malware analysis, Malware;Ransomware;YARA, 2024-01-02
 Yara Basics and Downloads, https://github.com/VirusTotal/yara, All you need for starting with YARA, YARA;Malware;Ransomware,2024-01-02
-Vulnerability Advisories, https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/02/GHSA-x4qx-4fjv-hmw6/GHSA-x4qx-4fjv-hmw6.json, Github Advisory Database, Advisories; Vulnerabilities, 2024-02-01
-Overview of IOCs and CTI, http://www.covert.io/threat-intelligence/, Threat-Intel and IOC collection, CTI;IOC;Malware;Ransomware,2024-02-01
+Vulnerability Advisories, https://github.com/github/advisory-database, Github Advisory Database, Advisories; Vulnerabilities, 2024-01-02
+Overview of IOCs and CTI, http://www.covert.io/threat-intelligence/, Threat-Intel and IOC collection, CTI;IOC;Malware;Ransomware,2024-01-02
