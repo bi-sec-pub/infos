@@ -1,4 +1,7 @@
 Name, URL, Comment, Tags, Added
+Mitra ATTACK, https://attack.mitre.org/, Mitra Attack Database TTPs, TTPS; Attacks; Mitre, 2024-01-05
+NVD Vulnerability Database, https://nvd.nist.gov/vuln/search, Search Vulnerabilities and CVEs, CVE; Vulnerabilities, 2024-01-05
+CISCO TALOS, https://www.talosintelligence.com/, Threat Intelligence and IP reputation, CTI; Repuration, 2024-01-05
 HaveIBeenPwned, https://haveibeenpwned.com/, Check your email for compromise in breaches, Password Security; Breaches, 2024-01-05
 AzAdvertizer, https://www.azadvertizer.net/index.html, Change-Tracking for Azure-Policies, Tools; Microsoft; Azure; M365; Audit, 2024-01-05
 365 Inspect, https://github.com/soteria-security/365Inspect, M365 Security Audit Tool, Tools; Entra ID; Microsoft; Azure; M365, 2024-01-05
