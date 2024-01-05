@@ -8,7 +8,7 @@ AADInternals, https://github.com/Gerenios/AADInternals, PowerShell-Tool for Azur
 DCToolbox, https://github.com/DanielChronlund/DCToolbox, PowerShell-Toolbox for M365 and Azure, Tools; Microsoft; Azure AD; M365; Entra ID, 2024-01-05
 IntuneManagement, https://github.com/Micke-K/IntuneManagement, PowerShell-Tool to manage M365 and Azure, Tools; Microsoft; M365; Azure; Intune, 2024-01-05
 M365 Feature Matrix, https://m365maps.com/matrix.htm, Licence and Feature Overview for M365, M365; Microsoft; License, 2024-01-05 
-Microsoft DFIR-Blogpost, https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/, Micrsoft Lessons Learned Blog on Attacks; Blog; Microsoft; M365, 2024-01-05 
+Microsoft DFIR-Blogpost, https://www.microsoft.com/en-us/security/blog/2023/12/05/microsoft-incident-response-lessons-on-preventing-cloud-identity-compromise/, Micrsoft Lessons Learned Blog on Attacks, Blog; Microsoft; M365, 2024-01-05 
 CIS Benchmarks, https://downloads.cisecurity.org/, Security-Benchmarks for various platforms, Audit; Security; Benchmarks, 2024-01-05
 Monkey365, https://github.com/silverhack/monkey365, Audit-Tool for Microsoft 365; Tools; Azure AD; M365; Entra ID; Exo; Teams, 2024-01-05
 ORCA, https://github.com/cammurray/orca, Microsoft Defender for Office 365 Recommended Configuration Analyzer, Tools; Azure AD; M365; Entra ID; Exo; Teams, 2024-01-05
