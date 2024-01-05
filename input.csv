@@ -1,4 +1,12 @@
 Name, URL, Comment, Tags, Added
+GraphRunner, https://github.com/dafthack/GraphRunner, Tools; Azure AD; M365; Entra ID; Post-Exploitation, 2024-01-05
+o365spray, https://github.com/0xZDH/o365spray, Tools; Azure AD; M365; Entra ID; Brute-Force, 2024-01-05
+TREVORspray, https://github.com/blacklanternsecurity/TREVORspray, Tools; Azure AD; Password-Spray; Brutef-Force; Entra ID; M365, 2024-01-05
+ROADtools, https://github.com/dirkjanm/ROADtools, Tools; Azure AD; Entra ID; M365; Token attack, 2024-01-05 
+evilginx, https://github.com/kgretzky/evilginx2, Tools; MitM-Attack Tool; M365; Azure AD; Entra ID, 2024-01-05
+BleepingComputer, https://www.bleepingcomputer.com/, IT-News; English, 2024-01-05
+Golem, https://www.golem.de/, IT-News; German, 2024-01-05
+Heise, https://www.heise.de/, IT-News; German, 2024-01-05
 Malware IOCs, https://github.com/executemalware/Malware-IOCs, IOCs for different Malware, Malware;IOC;Ransomware;CTI,2024-01-02
 CTI-Threat Intel, https://github.com/fastfire/deepdarkCTI, CTI for different Topics, CTI; Ransomware, 2024-01-02
 Yara Rules Collection, https://github.com/InQuest/awesome-yara, YARA-Rules for Malware analysis, Malware;Ransomware;YARA, 2024-01-02
