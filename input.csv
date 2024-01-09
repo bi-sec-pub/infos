@@ -1,4 +1,9 @@
 Name, URL, Comment, Tags, Added
+NIS2, https://eur-lex.europa.eu/eli/dir/2022/2555/oj, EU Regulations, Cybersecurity; Standards; Regulations, 2024-01-09
+DORA, https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52020PC0595, Digital Operational Resilience Act (DORA), Standards; Cybersecurity; Regulations, 2024-01-09
+PSD2, https://www.bundesbank.de/de/aufgaben/unbarer-zahlungsverkehr/psd2/psd2-775434, German payment regulatory by German Bundesbank, Standards; Cybersecurity; Regulations, 2024-01-09
+NIST, https://www.nist.gov/cyberframework, US Cybersecurity Framework from National Institute of Standards and Technology, Standards; Framework; Cybersecurity, 2024-01-09
+BSI (Federal Office for Information Security), https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/IT-Grundschutz/it-grundschutz_node.html, Security Baseline /IT-Grundschutz from german Bundesamt für Sicherheit in der Informationstechnik, BSI; Grundschutz; Standards; Framework; Cybersecurity, 2024-01-09
 Mitra ATTACK, https://attack.mitre.org/, Mitra Attack Database TTPs, TTPS; Attacks; Mitre, 2024-01-05
 NVD Vulnerability Database, https://nvd.nist.gov/vuln/search, Search Vulnerabilities and CVEs, CVE; Vulnerabilities, 2024-01-05
 CISCO TALOS, https://www.talosintelligence.com/, Threat Intelligence and IP reputation, CTI; Repuration, 2024-01-05
