@@ -1,6 +1,7 @@
 Name, URL, Comment, Tags, Added
-M365 Admin Tiering, https://github.com/emiliensocchi/azure-tiering, Administrative Tier-Modell for M365 and Azure, M365; Entra ID; Azure AD; Administration; Tier, 2024-08-26CVE Crowd, https://cvecrowd.com/, Highly discussed CVEs from Fediverse, CVE; IOC; Exploits, 2024-02-27
+M365 Admin Tiering, https://github.com/emiliensocchi/azure-tiering, Administrative Tier-Modell for M365 and Azure, M365; Entra ID; Azure AD; Administration; Tier, 2024-08-26
 Analysis Tools, https://analysis-tools.dev/, Overview of static analysis tools and linters, DevOps; DevSecOps, 2024-02-23
+CVE Crowd, https://cvecrowd.com/, Highly discussed CVEs from Fediverse, CVE; IOC; Exploits, 2024-02-27
 Active Directory Misconfiguration Guide, https://blog.nviso.eu/2023/10/26/most-common-active-directory-misconfigurations-and-default-settings-that-put-your-organization-at-risk/, Active Directory Misconfigurations, Active Directory; AD; Config; Audit, 2024-02-16
 Active Directory Attack Cheat Sheet, https://github.com/drak3hft7/Cheat-Sheet---Active-Directory, Active Directory Attack Tool, Active Directory; AD; Audit, 2024-02-16
 Adalanche AD Audit, https://github.com/lkarlslund/Adalanche, Active Direcoty Attack Path Audit and Visualization, Active directory; Audit; Tools, 2024-02-16
@@ -44,4 +45,3 @@ Yara Rules Collection, https://github.com/InQuest/awesome-yara, YARA-Rules for M
 Yara Basics and Downloads, https://github.com/VirusTotal/yara, All you need for starting with YARA, YARA;Malware;Ransomware,2024-01-02
 Vulnerability Advisories, https://github.com/github/advisory-database, Github Advisory Database, Advisories; Vulnerabilities, 2024-01-02
 Overview of IOCs and CTI, http://www.covert.io/threat-intelligence/, Threat-Intel and IOC collection, CTI;IOC;Malware;Ransomware,2024-01-02
-
