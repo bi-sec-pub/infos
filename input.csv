@@ -1,5 +1,6 @@
 Name, URL, Comment, Tags, Added
-M365 Admin Tiering, https://github.com/emiliensocchi/azure-tiering, Administrative Tier-Modell for M365 and Azure, M365; Entra ID; Azure AD; Administration; Tier, 2024-08-26
+Maester, https://maester.dev/, M365 / Entra / Azure Security Testing Automation,  M365; Entra ID; Azure AD; Audit; Hardening; Tools, 2024-08-26
+M365 Admin Tiering, https://github.com/emiliensocchi/azure-tiering, Administrative Tier-Modell for M365 and Azure, M365; Entra ID; Azure AD; Administration; Tier; Attack Paths, 2024-08-26
 Analysis Tools, https://analysis-tools.dev/, Overview of static analysis tools and linters, DevOps; DevSecOps, 2024-02-23
 CVE Crowd, https://cvecrowd.com/, Highly discussed CVEs from Fediverse, CVE; IOC; Exploits, 2024-02-27
 Active Directory Misconfiguration Guide, https://blog.nviso.eu/2023/10/26/most-common-active-directory-misconfigurations-and-default-settings-that-put-your-organization-at-risk/, Active Directory Misconfigurations, Active Directory; AD; Config; Audit, 2024-02-16
