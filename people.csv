@@ -1,21 +1,21 @@
-Name, Topics, Website, X/Twitter
+Name, Topics, Website/Github, X/Twitter
 Paula Januskiewicz, Microsoft; Azure; Windows, , @PaulaCqure 
 Nestori Syynimaa, Microsoft; Azure AD; Entra ID, , @drazuread
-Fabian Bader, Microsoft; Azure AD; Active Directory; Azure, , @fabian_bader
+Fabian Bader, Microsoft; Azure AD; Active Directory; Azure, https://github.com/f-bader , @fabian_bader
 Clandestine, OSINT; Threat Intelligence, , @akaclandestine
 rootsecdev, Cloud; Penetrationtesting, , @rootsecdev
-Merill, Entra ID, entra.news, @merill
+Merill, Entra ID, entra.news; https://github.com/merill, @merill
 Christian Biehler, Windows; M365; Azure; Microsoft, www.bi-sec.de/blog, @cssec
 Sami Lamppu, Cloud Security; M365; Microsoft, ,  @samilamppu
-Bert Jan, SOC; KQL; SIEM; Threat Hunting, , @BertJanCyber
-Dirk Jan, Azure AD; Active Directory; Microsoft, , @_dirkjan
-Daniel Chronlund, Azure AD; M365; Entra ID; Microsoft, , @danielChronlund
-Olaf Harton, Microsoft; Defender, , @olafhartong
-Jan Geisbauer, Microsoft; Defender; M365, , @JanGeisbauer
-Vincent Le Toux, PingCastle; Mimikatz; Microsoft; Windows, , @mysmartlogon
-Benjamin Delphy, Mimikatz; Windows, , @gentilkiwi
-Oliver Kieselbach, Microsoft; Windows; Entra ID; Intune, , @okieselb
+Bert Jan, SOC; KQL; SIEM; Threat Hunting, https://github.com/Bert-JanP, @BertJanCyber
+Dirk Jan, Azure AD; Active Directory; Microsoft, https://github.com/dirkjanm , @_dirkjan
+Daniel Chronlund, Azure AD; M365; Entra ID; Microsoft, https://github.com/DanielChronlund , @danielChronlund
+Olaf Harton, Microsoft; Defender, https://github.com/olafhartong , @olafhartong
+Jan Geisbauer, Microsoft; Defender; M365, https://github.com/jangeisbauer , @JanGeisbauer
+Vincent Le Toux, PingCastle; Mimikatz; Microsoft; Windows, https://github.com/vletoux, @mysmartlogon
+Benjamin Delphy, Mimikatz; Windows, https://github.com/gentilkiwi, @gentilkiwi
+Oliver Kieselbach, Microsoft; Windows; Entra ID; Intune, https://github.com/okieselbach , @okieselb
 Steve Syfuhs, Microsoft; Windows; Kerberos; NTLM, , @SteveSyfuhs
 Sami Laiho, Microsoft; Windows, win-fu.com , @samilaiho
-Florian Roth, YARA; DFIR; Loki, , @cyb3rops
+Florian Roth, YARA; DFIR; Loki, https://github.com/Neo23x0, @cyb3rops
 Emilien Socchi, M365; Azure AD; Entra ID, @emiliensocchi
