@@ -1,7 +1,7 @@
 Name, URL, Comment, Tags, Added
 InTheWild.io, https://inthewild.io/, OpenSource collection of vulnerabilities that are exploited in the wild, CVEs; Exploits; CTI; Ransomware, 2024-08-30
 Azure Tiering, https://github.com/emiliensocchi/azure-tiering, Basic infos for privileged permissions to built a tier-model in azure, Azure AD; Entra ID; M365; Administration; Tiering, 2024-08-30
-HardeningKitty, https://github.com/scipag/HardeningKitty, Audit-Tool to find Vulnerabilities and insecure configuration in Windows, Tools; Hardening; Windows; Microsoft, 204-08-30
+HardeningKitty, https://github.com/scipag/HardeningKitty, Audit-Tool to find Vulnerabilities and insecure configuration in Windows, Tools; Hardening; Windows; Microsoft, 2024-08-30
 Microsoft Security Compliance Toolkit, https://www.microsoft.com/en-us/download/details.aspx?id=55319, Hardening Tool for Windows Systems, Tools; Hardening; Windows; Microsoft, 2024-08-30
 PingCastle, https://www.pingcastle.com/download/, Audit-Tool for Windows Domains / Entra, Tools; Hardening; Azure AD; Active Directory; Microsoft; Entra ID, 2024-08-30
 Bloodhound, https://github.com/BloodHoundAD/BloodHound, Audit-Tool to find attack paths in a Windows Domain / Entra Environment, Tools; Hardening; Azure AD; Active Directory; Microsoft; Entra ID, 2024-08-30
